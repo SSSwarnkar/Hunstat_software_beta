@@ -1,5 +1,5 @@
 <!-- README.md -->
-# HunStat — DIY Potentiostat Control & Analysis Software
+# LBN Stat — DIY Potentiostat Control & Analysis Software
 
 Desktop control, simulation, and electrochemistry analysis suite for the **HunStat** Seeeduino XIAO SAMD21 potentiostat (`PoteVK-3.2.ino`).
 
